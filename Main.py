@@ -1,4 +1,4 @@
-print("SSG CPython Compiler")
+print("SSG Python Compiler")
 print("Translate Python to Bytecode")
 print("Type 'q' to quit")
 import dis
